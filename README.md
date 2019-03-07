@@ -8,8 +8,6 @@ An implementation considering a more generic structure is more dependent on the 
 
 While written in matlab, the code can be easily used as base to another languages.
 
-To get the code, you can checkout from SVN or use this direct link: https://dl.dropboxusercontent.com/u/40045778/mmsc.zip
-
 ( 1 ): http://dl.acm.org/citation.cfm?id=1987163 / http://link.springer.com/chapter/10.1007%2F978-3-642-19867-0_37
 
 ( 2 ): http://tel.archives-ouvertes.fr/docs/00/82/47/51/PDF/TH2012PEST1104_complete.pdf
